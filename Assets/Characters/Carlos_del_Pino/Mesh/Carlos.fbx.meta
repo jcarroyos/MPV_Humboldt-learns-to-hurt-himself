@@ -1,0 +1,1075 @@
+fileFormatVersion: 2
+guid: 805abc03056040d46998702b38120133
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Carlos
+    100004: Carlos_BonesHead
+    100006: Carlos_BonesLCalf
+    100008: Carlos_BonesLCollarbone
+    100010: Carlos_BonesLDigit11
+    100012: Carlos_BonesLDigit11 1
+    100014: Carlos_BonesLDigit12
+    100016: Carlos_BonesLDigit12 1
+    100018: Carlos_BonesLDigit13
+    100020: Carlos_BonesLDigit21
+    100022: Carlos_BonesLDigit22
+    100024: Carlos_BonesLDigit23
+    100026: Carlos_BonesLDigit31
+    100028: Carlos_BonesLDigit32
+    100030: Carlos_BonesLDigit33
+    100032: Carlos_BonesLDigit41
+    100034: Carlos_BonesLDigit42
+    100036: Carlos_BonesLDigit43
+    100038: Carlos_BonesLDigit51
+    100040: Carlos_BonesLDigit52
+    100042: Carlos_BonesLDigit53
+    100044: Carlos_BonesLFoot
+    100046: Carlos_BonesLForearm
+    100048: Carlos_BonesLPalm
+    100050: Carlos_BonesLThigh
+    100052: Carlos_BonesLUpperarm
+    100054: Carlos_BonesLUpVectorNode
+    100056: Carlos_BonesNeck
+    100058: Carlos_BonesPelvis
+    100060: Carlos_BonesRCalf
+    100062: Carlos_BonesRCollarbone
+    100064: Carlos_BonesRDigit11
+    100066: Carlos_BonesRDigit11 1
+    100068: Carlos_BonesRDigit12
+    100070: Carlos_BonesRDigit12 1
+    100072: Carlos_BonesRDigit13
+    100074: Carlos_BonesRDigit21
+    100076: Carlos_BonesRDigit22
+    100078: Carlos_BonesRDigit23
+    100080: Carlos_BonesRDigit31
+    100082: Carlos_BonesRDigit32
+    100084: Carlos_BonesRDigit33
+    100086: Carlos_BonesRDigit41
+    100088: Carlos_BonesRDigit42
+    100090: Carlos_BonesRDigit43
+    100092: Carlos_BonesRDigit51
+    100094: Carlos_BonesRDigit52
+    100096: Carlos_BonesRDigit53
+    100098: Carlos_BonesRFoot
+    100100: Carlos_BonesRForearm
+    100102: Carlos_BonesRibcage
+    100104: Carlos_BonesRPalm
+    100106: Carlos_BonesRThigh
+    100108: Carlos_BonesRUpperarm
+    100110: Carlos_BonesRUpVectorNode
+    100112: Carlos_BonesSpine1
+    100114: Carlos_BonesSpine2
+    100116: Corona
+    400000: //RootNode
+    400002: Carlos
+    400004: Carlos_BonesHead
+    400006: Carlos_BonesLCalf
+    400008: Carlos_BonesLCollarbone
+    400010: Carlos_BonesLDigit11
+    400012: Carlos_BonesLDigit11 1
+    400014: Carlos_BonesLDigit12
+    400016: Carlos_BonesLDigit12 1
+    400018: Carlos_BonesLDigit13
+    400020: Carlos_BonesLDigit21
+    400022: Carlos_BonesLDigit22
+    400024: Carlos_BonesLDigit23
+    400026: Carlos_BonesLDigit31
+    400028: Carlos_BonesLDigit32
+    400030: Carlos_BonesLDigit33
+    400032: Carlos_BonesLDigit41
+    400034: Carlos_BonesLDigit42
+    400036: Carlos_BonesLDigit43
+    400038: Carlos_BonesLDigit51
+    400040: Carlos_BonesLDigit52
+    400042: Carlos_BonesLDigit53
+    400044: Carlos_BonesLFoot
+    400046: Carlos_BonesLForearm
+    400048: Carlos_BonesLPalm
+    400050: Carlos_BonesLThigh
+    400052: Carlos_BonesLUpperarm
+    400054: Carlos_BonesLUpVectorNode
+    400056: Carlos_BonesNeck
+    400058: Carlos_BonesPelvis
+    400060: Carlos_BonesRCalf
+    400062: Carlos_BonesRCollarbone
+    400064: Carlos_BonesRDigit11
+    400066: Carlos_BonesRDigit11 1
+    400068: Carlos_BonesRDigit12
+    400070: Carlos_BonesRDigit12 1
+    400072: Carlos_BonesRDigit13
+    400074: Carlos_BonesRDigit21
+    400076: Carlos_BonesRDigit22
+    400078: Carlos_BonesRDigit23
+    400080: Carlos_BonesRDigit31
+    400082: Carlos_BonesRDigit32
+    400084: Carlos_BonesRDigit33
+    400086: Carlos_BonesRDigit41
+    400088: Carlos_BonesRDigit42
+    400090: Carlos_BonesRDigit43
+    400092: Carlos_BonesRDigit51
+    400094: Carlos_BonesRDigit52
+    400096: Carlos_BonesRDigit53
+    400098: Carlos_BonesRFoot
+    400100: Carlos_BonesRForearm
+    400102: Carlos_BonesRibcage
+    400104: Carlos_BonesRPalm
+    400106: Carlos_BonesRThigh
+    400108: Carlos_BonesRUpperarm
+    400110: Carlos_BonesRUpVectorNode
+    400112: Carlos_BonesSpine1
+    400114: Carlos_BonesSpine2
+    400116: Corona
+    2100000: CarlosdelPino
+    2300000: Corona
+    3300000: Corona
+    4300000: Carlos
+    4300002: Corona
+    7400000: idle
+    7400002: bienvenido
+    7400004: SaludodePaz
+    7400006: Rastrea
+    9500000: //RootNode
+    13700000: Carlos
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: "Avatar Rig Configuration mis-match. Inbetween bone rotation
+      in configuration does not match rotation in animation file:\n\t'Carlos_BonesLDigit11'
+      : rotation error = 6.296952 deg\n\t'Carlos_BonesRDigit11' : rotation error =
+      2.699570 deg\n"
+    animationImportErrors: 
+    animationImportWarnings: "\nClip 'bienvenido' has import animation warnings that
+      might lower retargeting quality:\nNote: Activate translation DOF on avatar to
+      improve retargeting quality.\n\t'Carlos_BonesLDigit11' is inbetween humanoid
+      transforms and has rotation animation that will be discarded.\n\t'Carlos_BonesRDigit11'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\nClip
+      'Rastrea' has import animation warnings that might lower retargeting quality:\nNote:
+      Activate translation DOF on avatar to improve retargeting quality.\n\t'Carlos_BonesLDigit11'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'Carlos_BonesRDigit11'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n"
+    animationRetargetingWarnings: "\nRetargeting quality report for clip 'idle':\n\tLeftLowerLeg
+      average position error 1.1 mm and maximum position error 1.1 mm at time 0:19
+      (38.0%) Frame 19\n\tRightLowerLeg average position error 1.5 mm and maximum
+      position error 1.5 mm at time 1: 5 (70.0%) Frame 35\n\nRetargeting quality report
+      for clip 'bienvenido':\n\tLeftLowerLeg average position error 0.3 mm and maximum
+      position error 1.1 mm at time 1:21 (0.0%) Frame 51\n\tRightLowerLeg average
+      position error 7.7 mm and maximum position error 23.7 mm at time 3: 0 (43.8%)
+      Frame 90\n\tRightFoot average position error 0.6 mm and maximum position error
+      1.5 mm at time 3:12 (57.3%) Frame 102\n\nRetargeting quality report for clip
+      'SaludodePaz':\n\tLeftLowerLeg average position error 1.1 mm and maximum position
+      error 1.1 mm at time 6:11 (38.8%) Frame 191\n\tRightLowerLeg average position
+      error 1.5 mm and maximum position error 1.5 mm at time 8: 0 (77.5%) Frame 240\n\nRetargeting
+      quality report for clip 'Rastrea':\n\tLeftLowerLeg average position error 4.1
+      mm and maximum position error 23.7 mm at time 12:29 (84.9%) Frame 389\n\tLeftFoot
+      average position error 0.3 mm and maximum position error 1.5 mm at time 13:
+      1 (86.3%) Frame 391\n\tRightLowerLeg average position error 2.7 mm and maximum
+      position error 23.7 mm at time 13:13 (95.0%) Frame 403\n\tRightFoot average
+      position error 0.2 mm and maximum position error 1.5 mm at time 13:10 (92.8%)
+      Frame 400\n"
+    animationDoRetargetingWarnings: 1
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: idle
+      takeName: idle
+      firstFrame: 0
+      lastFrame: 50
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: bienvenido
+      takeName: bienvenido
+      firstFrame: 51
+      lastFrame: 140
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: SaludodePaz
+      takeName: SaludodePaz
+      firstFrame: 141
+      lastFrame: 270
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Rastrea
+      takeName: Rastrea
+      firstFrame: 271
+      lastFrame: 410
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.0254
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human:
+    - boneName: Carlos_BonesPelvis
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Carlos_BonesLThigh
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Carlos_BonesRThigh
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Carlos_BonesLCalf
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Carlos_BonesRCalf
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Carlos_BonesLFoot
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Carlos_BonesRFoot
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Carlos_BonesSpine1
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Carlos_BonesSpine2
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Carlos_BonesNeck
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Carlos_BonesHead
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Carlos_BonesLCollarbone
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Carlos_BonesRCollarbone
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Carlos_BonesLUpperarm
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Carlos_BonesRUpperarm
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Carlos_BonesLForearm
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Carlos_BonesRForearm
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Carlos_BonesLPalm
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Carlos_BonesRPalm
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Carlos_BonesLDigit12
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Carlos_BonesRDigit12
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Corona
+      humanName: LeftEye
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Carlos_BonesLDigit11 1
+      humanName: Left Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Carlos_BonesLDigit12 1
+      humanName: Left Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Carlos_BonesLDigit13
+      humanName: Left Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Carlos_BonesLDigit21
+      humanName: Left Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Carlos_BonesLDigit22
+      humanName: Left Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Carlos_BonesLDigit23
+      humanName: Left Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Carlos_BonesLDigit31
+      humanName: Left Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Carlos_BonesLDigit32
+      humanName: Left Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Carlos_BonesLDigit33
+      humanName: Left Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Carlos_BonesLDigit41
+      humanName: Left Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Carlos_BonesLDigit42
+      humanName: Left Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Carlos_BonesLDigit43
+      humanName: Left Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Carlos_BonesLDigit51
+      humanName: Left Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Carlos_BonesLDigit52
+      humanName: Left Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Carlos_BonesRDigit11 1
+      humanName: Right Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Carlos_BonesRDigit12 1
+      humanName: Right Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Carlos_BonesRDigit13
+      humanName: Right Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Carlos_BonesRDigit21
+      humanName: Right Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Carlos_BonesRDigit22
+      humanName: Right Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Carlos_BonesRDigit23
+      humanName: Right Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Carlos_BonesRDigit31
+      humanName: Right Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Carlos_BonesRDigit32
+      humanName: Right Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Carlos_BonesRDigit33
+      humanName: Right Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Carlos_BonesRDigit41
+      humanName: Right Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Carlos_BonesRDigit42
+      humanName: Right Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Carlos_BonesRDigit43
+      humanName: Right Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Carlos_BonesRDigit51
+      humanName: Right Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Carlos_BonesRDigit52
+      humanName: Right Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Carlos_BonesRDigit53
+      humanName: Right Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Carlos_BonesRibcage
+      humanName: UpperChest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: Carlos(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Carlos
+      parentName: Carlos(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Carlos_BonesPelvis
+      parentName: Carlos(Clone)
+      position: {x: 0.00000008693829, y: 2.1729968, z: -0.3304368}
+      rotation: {x: 0.49912703, y: -0.5008716, z: -0.4991269, w: 0.5008715}
+      scale: {x: 1.0000002, y: 1.0000002, z: 0.99999994}
+    - name: Carlos_BonesLUpVectorNode
+      parentName: Carlos_BonesPelvis
+      position: {x: 0.7547351, y: 0.6094008, z: 0.36460826}
+      rotation: {x: -2.0963797e-10, y: -0.0000001340586, z: 1.1641528e-10, w: 1}
+      scale: {x: 1.0000001, y: 1.0000001, z: 0.9999999}
+    - name: Carlos_BonesRUpVectorNode
+      parentName: Carlos_BonesPelvis
+      position: {x: 0.7547358, y: 0.60858446, z: -0.3646061}
+      rotation: {x: -1.5143031e-10, y: -0.0000001340586, z: 1.1641529e-10, w: 1}
+      scale: {x: 1.0000001, y: 1.0000001, z: 0.9999999}
+    - name: Carlos_BonesSpine1
+      parentName: Carlos_BonesPelvis
+      position: {x: -0.08625016, y: -0.006599064, z: -0.000000016377433}
+      rotation: {x: -0.000000014901161, y: -0.000000044703484, z: -0.14854456, w: 0.9889057}
+      scale: {x: 1.0000004, y: 1.000001, z: 1.0000004}
+    - name: Carlos_BonesSpine2
+      parentName: Carlos_BonesSpine1
+      position: {x: -0.4642428, y: 0, z: 3.6961864e-13}
+      rotation: {x: 0.0000024735928, y: 0.0000004172325, z: 0.17020974, w: 0.9854079}
+      scale: {x: 1.0000013, y: 1.000001, z: 1.0000001}
+    - name: Carlos_BonesRibcage
+      parentName: Carlos_BonesSpine2
+      position: {x: -1.0837706, y: -0.000000012111664, z: -3.6961864e-13}
+      rotation: {x: -0.0000024884937, y: 0.000000059604638, z: -0.023688477, w: 0.9997194}
+      scale: {x: 0.9999992, y: 0.9999994, z: 0.9999999}
+    - name: Carlos_BonesNeck
+      parentName: Carlos_BonesRibcage
+      position: {x: -0.0014987458, y: -0.0065990156, z: -0.000000012673484}
+      rotation: {x: -0.000000029793906, y: -7.059703e-10, z: 1.4832577e-13, w: 1}
+      scale: {x: 1.000001, y: 1.0000011, z: 1.0000006}
+    - name: Carlos_BonesHead
+      parentName: Carlos_BonesNeck
+      position: {x: -0.4827806, y: 0.000000024223327, z: 0}
+      rotation: {x: 0.000000029802322, y: 0.000000029802322, z: 0.000000029802322,
+        w: 1}
+      scale: {x: 0.9999997, y: 0.9999997, z: 1}
+    - name: Corona
+      parentName: Carlos_BonesHead
+      position: {x: -0.50016326, y: -0.048819017, z: 0.015860636}
+      rotation: {x: 0.7071069, y: 0.000000026341777, z: -0.70710665, w: 0.000000026341784}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Carlos_BonesLCollarbone
+      parentName: Carlos_BonesRibcage
+      position: {x: 0.03275614, y: 0.19154812, z: 0.05682798}
+      rotation: {x: 0.063907064, y: 0.6773407, z: 0.16211508, w: 0.71473366}
+      scale: {x: 1.0000001, y: 1.000001, z: 1.0000017}
+    - name: Carlos_BonesLUpperarm
+      parentName: Carlos_BonesLCollarbone
+      position: {x: -0.5966807, y: 0.000000024223327, z: 0}
+      rotation: {x: 0.07978194, y: 0.041081723, z: -0.15779828, w: 0.98338544}
+      scale: {x: 0.9999999, y: 0.99999964, z: 1.000001}
+    - name: Carlos_BonesLForearm
+      parentName: Carlos_BonesLUpperarm
+      position: {x: -0.73559654, y: 0, z: 0.00000009689331}
+      rotation: {x: 0.116061226, y: -0.022895893, z: -0.023909, w: 0.99269027}
+      scale: {x: 1, y: 1.0000007, z: 0.99999887}
+    - name: Carlos_BonesLPalm
+      parentName: Carlos_BonesLForearm
+      position: {x: -0.7087455, y: -0.000000048446655, z: 0}
+      rotation: {x: -0.71685463, y: 0.062476054, z: 0.111753464, w: 0.6853667}
+      scale: {x: 1.0000005, y: 1.0000002, z: 0.9999987}
+    - name: Carlos_BonesLDigit11 1
+      parentName: Carlos_BonesLPalm
+      position: {x: -0.048858453, y: -0.027645405, z: 0.121164165}
+      rotation: {x: 0.22844821, y: 0.341478, z: -0.11785877, w: 0.9040539}
+      scale: {x: 1.0000007, y: 0.99999976, z: 0.99999815}
+    - name: Carlos_BonesLDigit12 1
+      parentName: Carlos_BonesLDigit11 1
+      position: {x: -0.098182574, y: 0, z: -0.000000048446655}
+      rotation: {x: 0.000000014901161, y: 0.000000059604645, z: -0.000000022351742,
+        w: 1}
+      scale: {x: 1.000001, y: 0.9999995, z: 0.99999905}
+    - name: Carlos_BonesLDigit13
+      parentName: Carlos_BonesLDigit12 1
+      position: {x: -0.0762, y: 0, z: 0.000000048446655}
+      rotation: {x: 0.0000000020954758, y: -0.00000008940697, z: 0.0172674, w: 0.999851}
+      scale: {x: 1.0000021, y: 1.0000005, z: 0.9999996}
+    - name: Carlos_BonesLDigit21
+      parentName: Carlos_BonesLPalm
+      position: {x: -0.2745063, y: 0.028937187, z: 0.084268495}
+      rotation: {x: 0.00068485696, y: 0.039431065, z: 0.041921657, w: 0.9983423}
+      scale: {x: 1.0000011, y: 1.0000004, z: 0.9999989}
+    - name: Carlos_BonesLDigit22
+      parentName: Carlos_BonesLDigit21
+      position: {x: -0.07523785, y: 0, z: 0.000000048446655}
+      rotation: {x: -0.00096651976, y: -0.005533368, z: 0.039181627, w: 0.9992163}
+      scale: {x: 0.99999976, y: 1.0000005, z: 1.0000013}
+    - name: Carlos_BonesLDigit23
+      parentName: Carlos_BonesLDigit22
+      position: {x: -0.07911494, y: -0.00000009689331, z: -0.000000048446655}
+      rotation: {x: 0.0002803286, y: 0.0030415948, z: 0.027128017, w: 0.99962735}
+      scale: {x: 1.0000018, y: 1.0000007, z: 0.99999934}
+    - name: Carlos_BonesLDigit51
+      parentName: Carlos_BonesLPalm
+      position: {x: -0.24952662, y: -0.050337624, z: -0.12493147}
+      rotation: {x: -0.008222576, y: -0.04588394, z: 0.019099439, w: 0.99873036}
+      scale: {x: 0.9999993, y: 1.0000005, z: 1.0000012}
+    - name: Carlos_BonesLDigit52
+      parentName: Carlos_BonesLDigit51
+      position: {x: -0.053351976, y: 0, z: 0.000000024223327}
+      rotation: {x: 0.00000059511484, y: 0.0000009015198, z: 0.039375793, w: 0.99922454}
+      scale: {x: 1, y: 1.0000008, z: 1.0000011}
+    - name: Carlos_BonesLDigit53
+      parentName: Carlos_BonesLDigit52
+      position: {x: -0.05335217, y: -0.00000009689331, z: -0.000000012111664}
+      rotation: {x: 0.00000009810905, y: -0.000000115036144, z: 0.08472396, w: 0.99640447}
+      scale: {x: 0.99999887, y: 1.0000001, z: 1.0000008}
+    - name: Carlos_BonesLDigit41
+      parentName: Carlos_BonesLPalm
+      position: {x: -0.26705772, y: -0.018735483, z: -0.07116823}
+      rotation: {x: -0.0030205534, y: -0.028595397, z: 0.03483191, w: 0.9989795}
+      scale: {x: 0.9999987, y: 1.0000002, z: 1.0000013}
+    - name: Carlos_BonesLDigit42
+      parentName: Carlos_BonesLDigit41
+      position: {x: -0.10412271, y: 0, z: 0.000000048446655}
+      rotation: {x: -0.0000009941866, y: 0.000091843285, z: 0.037803236, w: 0.99928516}
+      scale: {x: 0.99999774, y: 1.0000001, z: 1.0000037}
+    - name: Carlos_BonesLDigit43
+      parentName: Carlos_BonesLDigit42
+      position: {x: -0.0509684, y: -0.00000009689331, z: -0.000000024223327}
+      rotation: {x: -0.000009168172, y: -0.00008992851, z: 0.072617486, w: 0.9973599}
+      scale: {x: 0.99999666, y: 0.9999999, z: 1.0000036}
+    - name: Carlos_BonesLDigit31
+      parentName: Carlos_BonesLPalm
+      position: {x: -0.27939516, y: 0.019345524, z: 0.006306955}
+      rotation: {x: -0.00010162586, y: 0.0016790581, z: 0.047305774, w: 0.998879}
+      scale: {x: 0.99999666, y: 1.0000002, z: 1.0000035}
+    - name: Carlos_BonesLDigit32
+      parentName: Carlos_BonesLDigit31
+      position: {x: -0.09273252, y: -0.00000009689331, z: -0.000000024223327}
+      rotation: {x: -0.0000023791717, y: 0.00000046065526, z: 0.03554, w: 0.99936825}
+      scale: {x: 0.99999833, y: 1.0000002, z: 1.000001}
+    - name: Carlos_BonesLDigit33
+      parentName: Carlos_BonesLDigit32
+      position: {x: -0.08024878, y: 0, z: -0.000000024223327}
+      rotation: {x: 0.0000005187887, y: 0.00000024931373, z: -0.040461887, w: 0.99918115}
+      scale: {x: 0.9999987, y: 1.0000007, z: 1.0000011}
+    - name: Carlos_BonesRCollarbone
+      parentName: Carlos_BonesRibcage
+      position: {x: 0.03275614, y: 0.19154814, z: -0.056828}
+      rotation: {x: 0.0639073, y: 0.6773407, z: -0.16211505, w: -0.71473354}
+      scale: {x: 1.0000024, y: 1.000001, z: 1.000001}
+    - name: Carlos_BonesRUpperarm
+      parentName: Carlos_BonesRCollarbone
+      position: {x: -0.5966807, y: -0.000000024223327, z: 0.00000038757324}
+      rotation: {x: -0.079782054, y: -0.041082684, z: -0.15779807, w: 0.9833854}
+      scale: {x: 1.0000015, y: 1.0000007, z: 0.9999992}
+    - name: Carlos_BonesRForearm
+      parentName: Carlos_BonesRUpperarm
+      position: {x: -0.73559636, y: 0.00000009689331, z: 0}
+      rotation: {x: -0.11606096, y: 0.022897191, z: -0.02390957, w: 0.99269027}
+      scale: {x: 1.0000007, y: 1.0000011, z: 1.0000007}
+    - name: Carlos_BonesRPalm
+      parentName: Carlos_BonesRForearm
+      position: {x: -0.7087455, y: -0.000000048446655, z: -0.00000009689331}
+      rotation: {x: 0.7168554, y: -0.062477656, z: 0.11175567, w: 0.68536526}
+      scale: {x: 1.0000014, y: 1.000001, z: 0.9999983}
+    - name: Carlos_BonesRDigit11 1
+      parentName: Carlos_BonesRPalm
+      position: {x: -0.048858646, y: -0.027645405, z: -0.121163726}
+      rotation: {x: -0.22845092, y: -0.3414776, z: -0.117857605, w: 0.90405357}
+      scale: {x: 1.0000032, y: 1.0000002, z: 0.9999968}
+    - name: Carlos_BonesRDigit12 1
+      parentName: Carlos_BonesRDigit11 1
+      position: {x: -0.09818248, y: 0, z: 0.00000009689331}
+      rotation: {x: -0.00000008940697, y: -0.000000029802322, z: -0, w: 1}
+      scale: {x: 1.0000018, y: 0.9999998, z: 0.9999988}
+    - name: Carlos_BonesRDigit13
+      parentName: Carlos_BonesRDigit12 1
+      position: {x: -0.0762, y: 0.00000019378662, z: 0}
+      rotation: {x: -0.000000118707995, y: -0.000000061152925, z: 0.017267555, w: 0.999851}
+      scale: {x: 1.0000025, y: 1.0000002, z: 0.9999995}
+    - name: Carlos_BonesRDigit41
+      parentName: Carlos_BonesRPalm
+      position: {x: -0.26705793, y: -0.018735386, z: 0.07116799}
+      rotation: {x: 0.0030217173, y: 0.028595803, z: 0.034831014, w: 0.9989795}
+      scale: {x: 0.99999857, y: 0.9999997, z: 1.000001}
+    - name: Carlos_BonesRDigit42
+      parentName: Carlos_BonesRDigit41
+      position: {x: -0.10412252, y: 0.00000009689331, z: -0.000000048446655}
+      rotation: {x: 0.0000071732784, y: -0.00008934363, z: 0.037803575, w: 0.99928516}
+      scale: {x: 0.9999995, y: 1.0000005, z: 1.0000023}
+    - name: Carlos_BonesRDigit43
+      parentName: Carlos_BonesRDigit42
+      position: {x: -0.050968595, y: 0, z: 0}
+      rotation: {x: 0.0000028237225, y: 0.00009073043, z: 0.0726174, w: 0.9973599}
+      scale: {x: 0.9999994, y: 1.000001, z: 1.0000024}
+    - name: Carlos_BonesRDigit51
+      parentName: Carlos_BonesRPalm
+      position: {x: -0.24952681, y: -0.050337527, z: 0.12493108}
+      rotation: {x: 0.0082240105, y: 0.04587889, z: 0.019094821, w: 0.99873066}
+      scale: {x: 0.9999989, y: 0.99999994, z: 1.0000018}
+    - name: Carlos_BonesRDigit52
+      parentName: Carlos_BonesRDigit51
+      position: {x: -0.05335217, y: -0.00000009689331, z: -0.000000024223327}
+      rotation: {x: 0.00000056717533, y: 0.0000022947784, z: 0.03938344, w: 0.99922425}
+      scale: {x: 0.9999989, y: 1.0000002, z: 1.0000024}
+    - name: Carlos_BonesRDigit53
+      parentName: Carlos_BonesRDigit52
+      position: {x: -0.053352363, y: 0, z: 0.000000024223327}
+      rotation: {x: -0.0000036720012, y: 0.0000002027636, z: 0.084723875, w: 0.9964045}
+      scale: {x: 0.9999992, y: 1.0000004, z: 1.0000018}
+    - name: Carlos_BonesRDigit21
+      parentName: Carlos_BonesRPalm
+      position: {x: -0.2745065, y: 0.028937187, z: -0.08426818}
+      rotation: {x: -0.00068563205, y: -0.039431084, z: 0.0419206, w: 0.99834234}
+      scale: {x: 1.0000013, y: 0.9999999, z: 0.99999785}
+    - name: Carlos_BonesRDigit22
+      parentName: Carlos_BonesRDigit21
+      position: {x: -0.07523785, y: -0.00000009689331, z: 0}
+      rotation: {x: 0.0009656185, y: 0.0055344924, z: 0.039179694, w: 0.9992164}
+      scale: {x: 1.000002, y: 0.9999996, z: 0.9999999}
+    - name: Carlos_BonesRDigit23
+      parentName: Carlos_BonesRDigit22
+      position: {x: -0.07911494, y: 0.00000009689331, z: 0}
+      rotation: {x: -0.00028066512, y: -0.0030413335, z: 0.02712804, w: 0.99962735}
+      scale: {x: 1.0000018, y: 1.0000005, z: 0.9999997}
+    - name: Carlos_BonesRDigit31
+      parentName: Carlos_BonesRPalm
+      position: {x: -0.27939555, y: 0.019345814, z: -0.0063068583}
+      rotation: {x: 0.00010579823, y: -0.001676902, z: 0.047304347, w: 0.99887913}
+      scale: {x: 0.9999988, y: 0.9999999, z: 1.0000004}
+    - name: Carlos_BonesRDigit32
+      parentName: Carlos_BonesRDigit31
+      position: {x: -0.092732325, y: 0, z: 0}
+      rotation: {x: -0.0000033868923, y: 0.00000070128584, z: 0.035546727, w: 0.9993681}
+      scale: {x: 0.99999994, y: 1.000001, z: 0.9999994}
+    - name: Carlos_BonesRDigit33
+      parentName: Carlos_BonesRDigit32
+      position: {x: -0.08024878, y: 0.00000009689331, z: 0}
+      rotation: {x: 0.0000004537535, y: -0.00000029122467, z: -0.04046171, w: 0.9991811}
+      scale: {x: 0.99999976, y: 0.9999999, z: 1.0000026}
+    - name: Carlos_BonesLThigh
+      parentName: Carlos_BonesPelvis
+      position: {x: -0.032491233, y: 0.0885903, z: 0.27810413}
+      rotation: {x: -0.019379199, y: 0.9982252, z: 0.0011860281, w: 0.05629821}
+      scale: {x: 1.0000007, y: 1.0000012, z: 1.0000011}
+    - name: Carlos_BonesLCalf
+      parentName: Carlos_BonesLThigh
+      position: {x: -0.7925523, y: 0.00000032701493, z: 0.0000001695633}
+      rotation: {x: 0.00028699765, y: -0.0013177767, z: 0.1372683, w: 0.99053305}
+      scale: {x: 0.9999965, y: 0.9999995, z: 1.0000055}
+    - name: Carlos_BonesLFoot
+      parentName: Carlos_BonesLCalf
+      position: {x: -1.339606, y: 0.000000024223327, z: 0}
+      rotation: {x: -0.09310899, y: 0.010037886, z: -0.70407236, w: 0.7039263}
+      scale: {x: 0.9999968, y: 1.0000031, z: 1.0000005}
+    - name: Carlos_BonesLDigit11
+      parentName: Carlos_BonesLFoot
+      position: {x: -0.28242138, y: -0.000000006055832, z: -0.000000024223327}
+      rotation: {x: 0.00017593052, y: -0.0015656493, z: -0.1118738, w: 0.9937212}
+      scale: {x: 1.000001, y: 1.0000005, z: 1.0000008}
+    - name: Carlos_BonesLDigit12
+      parentName: Carlos_BonesLDigit11
+      position: {x: -0.15278843, y: 0, z: -0.000000024223327}
+      rotation: {x: 0.0000000010973905, y: -0, z: -0, w: 1}
+      scale: {x: 0.9999999, y: 1, z: 1.0000004}
+    - name: Carlos_BonesRThigh
+      parentName: Carlos_BonesPelvis
+      position: {x: -0.032491233, y: 0.0885904, z: -0.27810416}
+      rotation: {x: -0.019372195, y: 0.99822545, z: -0.0011764169, w: -0.05629745}
+      scale: {x: 1.0000006, y: 0.9999994, z: 1.0000007}
+    - name: Carlos_BonesRCalf
+      parentName: Carlos_BonesRThigh
+      position: {x: -0.7925525, y: 0.0000003391266, z: -0.00000019378662}
+      rotation: {x: -0.00033300437, y: 0.0013936086, z: 0.13748887, w: 0.9905023}
+      scale: {x: 1.0000015, y: 1.0000004, z: 0.9999984}
+    - name: Carlos_BonesRFoot
+      parentName: Carlos_BonesRCalf
+      position: {x: -1.3396063, y: 0.000000024223327, z: 0}
+      rotation: {x: 0.09285552, y: -0.010432472, z: -0.7042286, w: 0.7037977}
+      scale: {x: 1.0000026, y: 0.9999985, z: 1.0000008}
+    - name: Carlos_BonesRDigit11
+      parentName: Carlos_BonesRFoot
+      position: {x: -0.2824214, y: 0.000000003027916, z: 0}
+      rotation: {x: -0.00023000309, y: 0.002047094, z: -0.11193419, w: 0.9937135}
+      scale: {x: 1.0000011, y: 0.9999999, z: 1.0000007}
+    - name: Carlos_BonesRDigit12
+      parentName: Carlos_BonesRDigit11
+      position: {x: -0.15278845, y: 0, z: -0.000000048446655}
+      rotation: {x: 1.4551912e-11, y: -0, z: 0.0000000014514964, w: 1}
+      scale: {x: 1.0000008, y: 0.99999994, z: 1.0000007}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

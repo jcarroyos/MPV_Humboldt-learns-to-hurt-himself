@@ -1,0 +1,146 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Carlos
+  m_Shader: {fileID: 4800000, guid: 80412fe88398cd147be3aacebe2c3fe3, type: 3}
+  m_ShaderKeywords: OUTLINES TCP2_BUMP TCP2_DISABLE_WRAPPED_LIGHT _DETAIL_MULX2 _EMISSION
+    _METALLICGLOSSMAP _NORMALMAP _SPECGLOSSMAP _TEX_ON
+  m_LightmapFlags: 0
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _BumpMap:
+        m_Texture: {fileID: 2800000, guid: 64b22020760c1a244a61e09cd6ad13fe, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Cube:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Detail:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailAlbedoMap:
+        m_Texture: {fileID: 2800000, guid: 9f9478b0b9321fb4db10bdd6ea5cc97b, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailMask:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailNormalMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _EmissionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: 9f9478b0b9321fb4db10bdd6ea5cc97b, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MatCapTex:
+        m_Texture: {fileID: 2800000, guid: 39413e2567f4b452db0d4a76dbef5419, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MetallicGlossMap:
+        m_Texture: {fileID: 2800000, guid: 639b25114d6f8254d96fda15e402680b, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _OcclusionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _ParallaxMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Ramp:
+        m_Texture: {fileID: 2800000, guid: ddc10f754ce269e4b826e27682c747da, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SpecGlossMap:
+        m_Texture: {fileID: 2800000, guid: 68068f9b30c58c143a92d25134571a50, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _ToonShade:
+        m_Texture: {fileID: 2800000, guid: 39413e2567f4b452db0d4a76dbef5419, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _Brightness: 1.26
+    - _BumpScale: 1
+    - _Cutoff: 0.5
+    - _DetailNormalMapScale: 1
+    - _DetailTex: 1
+    - _DstBlend: 0
+    - _DstBlendOutline: 0
+    - _Gloss: 0.498
+    - _GlossMapScale: 0.36
+    - _Glossiness: 0.5
+    - _GlossyReflections: 1
+    - _InnerOutlineThickness: 0.01
+    - _Metallic: 0
+    - _Mode: 0
+    - _NormalIntensity: 1
+    - _OcclusionStrength: 1
+    - _Offset1: 9.54
+    - _Offset2: -1.58
+    - _OuterOutlineThickness: 0.01
+    - _Outline: 1.7
+    - _OutlineIntensity: 2.03
+    - _OutlineSmoothness: 4.2
+    - _OutlineThickness: -0.15
+    - _Parallax: 0.02
+    - _RampSmooth: 0.572
+    - _RampSmoothAdd: 0.75
+    - _RampThreshold: 0.5
+    - _RimMax: 0.85
+    - _RimMin: 0.6
+    - _RimStrength: 0.5
+    - _Shininess: 0.078125
+    - _SmoothnessTextureChannel: 0
+    - _SpecBlend: 1
+    - _SpecIntensity: 0.39
+    - _SpecSmooth: 1
+    - _SpecularHighlights: 1
+    - _SrcBlend: 1
+    - _SrcBlendOutline: 0
+    - _TCP2_DISABLE_WRAPPED_LIGHT: 1
+    - _TCP2_OUTLINE_CONST_SIZE: 0
+    - _TCP2_OUTLINE_TEXTURED: 0
+    - _TCP2_RAMPTEXT: 0
+    - _TCP2_SPEC_TOON: 0
+    - _TCP2_STYLIZED_FRESNEL: 0
+    - _TCP2_ZSMOOTH_ON: 0
+    - _TexLod: 4.14
+    - _TintColor: 0
+    - _UVSec: 0
+    - _VertexColor: 0
+    - _WriteDepth: 0
+    - _ZSmooth: -3
+    - _ZWrite: 1
+    m_Colors:
+    - _Color: {r: 0.8867924, g: 0.75711995, b: 0.75711995, a: 1}
+    - _Diffusecolor: {r: 1, g: 1, b: 1, a: 1}
+    - _EmissionColor: {r: 0.0007314645, g: 0.0007314645, b: 0.0007314645, a: 1}
+    - _HColor: {r: 0.6981132, g: 0.6981132, b: 0.6981132, a: 1}
+    - _OutlineColor: {r: 0.14150941, g: 0.14150941, b: 0.04605731, a: 1}
+    - _ReflectColor: {r: 1, g: 1, b: 1, a: 0.5}
+    - _RimColor: {r: 0.8, g: 0.8, b: 0.8, a: 0.6}
+    - _SColor: {r: 0.2735849, g: 0.2516465, b: 0.2516465, a: 1}
+    - _SpecColor: {r: 0.2, g: 0.2, b: 0.2, a: 1}
+    - _Speccolor: {r: 1, g: 1, b: 1, a: 1}
